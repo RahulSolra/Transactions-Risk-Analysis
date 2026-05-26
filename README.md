@@ -1,6 +1,6 @@
 # Predictive Analytics for Transactions Risk Analysis Using ML
 
-![](C:\Users\rahul\Downloads\Amex\Risk Analysis Using ML)
+![](https://raw.githubusercontent.com/RahulSolra/Transactions-Risk-Analysis/refs/heads/main/Streamlit%20Dashboard.png)
 
 ## Project Overview
 
