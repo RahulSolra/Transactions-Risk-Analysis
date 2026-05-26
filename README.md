@@ -1,7 +1,8 @@
 # Transactions Risk Analysis Using ML
 
+## Power BI Dashboard Preview :
 ![](https://raw.githubusercontent.com/RahulSolra/Transactions-Risk-Analysis/refs/heads/main/Power%20BI%20Dashboard.png)
-
+## Streamlit Preview :
 ![](https://raw.githubusercontent.com/RahulSolra/Transactions-Risk-Analysis/refs/heads/main/Streamlit%20Dashboard.png)
 
 ## Project Overview
