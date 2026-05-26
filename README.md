@@ -1,5 +1,7 @@
 # Predictive Analytics for Transactions Risk Analysis Using ML
 
+![](https://raw.githubusercontent.com/RahulSolra/Transactions-Risk-Analysis/refs/heads/main/Power%20BI%20Dashboard.png)
+
 ![](https://raw.githubusercontent.com/RahulSolra/Transactions-Risk-Analysis/refs/heads/main/Streamlit%20Dashboard.png)
 
 ## Project Overview
